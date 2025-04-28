@@ -1,3 +1,23 @@
+🔥 Firebase Authentication Practice
+This project is built only for practicing Firebase Authentication with multiple providers.
+
+📚 Purpose
+Learn how to integrate Firebase Authentication into a web project.
+
+Implement login using:
+
+Google
+
+GitHub
+
+Twitter
+
+🛠️ What I Used
+Firebase Authentication
+
+JavaScript / React (if you used React)
+
+Basic Frontend (HTML/CSS or Tailwind if used)
 # Firebase Recap
 
 This template provides a minimal setup how we can use Firebase. 
